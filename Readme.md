@@ -11,9 +11,14 @@ Portanto, nessa jornada você desenvolverá uma aplicação que simula o comport
 Nós precisamos criar o alicerce da aplicação que vamos desenvolver e para isso é importante entender os fundamentos por trás dela.
 Suas tarefas essa semana serão:
 
+- [ ] Clonar esse repositório
 - [ ] Criar um servidor em Python. O servidor deve ouvir a porta 3000.
   - [ ] Usando o verbo GET do HTTP, crie um endpoint `hello` que retornará um texto "Olá, mundo! A revolução das máquinas começou."
   - [ ] Usando o verbo GET do HTTP, crie um endpoint `hello-2` que receberá via query string um parâmetro `name` e retornará como resposta um JSON com a estrutura: `{ "message": "Olá, $NAME! A revolução das máquinas começou." }`. Você deve substituir $NAME pelo nome recebido via querystring.
+- [ ] Fazer um commit do seu código funcionando. O commit terá a mensagem "feat: meu primeiro servidor funciona". Dica: tente utilizar os comandos git pelo terminal, mas pode usar as ferramentas nativas do VsCode também.
+- [ ] Responder o questionário teórico
+- [ ] Fazer um commit do seu código funcionando. O commit terá a mensagem "docs: e eu sei o motivo". Dica: tente utilizar os comandos git pelo terminal, mas pode usar as ferramentas nativas do VsCode também.
+
 
 #### Dicas:
 1 - Não use frameworks para essas tarefas.
