@@ -21,40 +21,41 @@ Suas tarefas essa semana serão:
 
 
 #### Dicas:
-1 - Não use frameworks para essas tarefas.
-2 - Você pode baixar o [Postman](https://www.postman.com/) para ver o resultado do seu código ou extensões para o VsCode: ThunderClient (minha favorita) ou a própria extensão do Postman.
-3 - Se preferir, você pode usar o seu navegador para ver o resultado do seu código. Quando o servidor estiver rodando, basta acessar: [http://localhost:3000/NOME_DO_ENDPOINT](http://localhost:3000)
+1. Não use frameworks para essas tarefas.
+2. Você pode baixar o [Postman](https://www.postman.com/) para ver o resultado do seu código ou extensões para o VsCode: ThunderClient (minha favorita) ou a própria extensão do Postman.
+3. Se preferir, você pode usar o seu navegador para ver o resultado do seu código. Quando o servidor estiver rodando, basta acessar: [http://localhost:3000/NOME_DO_ENDPOINT](http://localhost:3000)
 
 #### Parte teórica
 **Você pode responder as perguntas aqui nesse markdown para manter um histórico, mas também mande áudio no WhatsApp explicando cada pergunta.**
 
-1 - Com suas palavras, como você definiria um servidor Web?
+1. Com suas palavras, como você definiria um servidor Web?
 
 Resposta: \<DIGITE A SUA RESPOSTA\>
 
-2 - Descreva brevemente: o que é o protocolo HTTP?
+2. Descreva brevemente: o que é o protocolo HTTP?
 
 Resposta: \<DIGITE A SUA RESPOSTA\>
 
-3 - Quais são os possíveis verbos HTTP? Cite exemplos de uso para cada um.
+3. Quais são os possíveis verbos HTTP? Cite exemplos de uso para cada um.
 
 Resposta: \<DIGITE A SUA RESPOSTA\>
 
-4 - No contexto de aplicações distribuídas, o que é um protocolo?
+4. No contexto de aplicações distribuídas, o que é um protocolo?
 
 Resposta: \<DIGITE A SUA RESPOSTA\>
 
-5 - O protocolo HTTP é textual ou binário? Em que isso implica? Cite exemplos de outros protocolos e diga se são binários ou textuais.
+5. O protocolo HTTP é textual ou binário? Em que isso implica? Cite exemplos de outros protocolos e diga se são binários ou textuais.
 
 Resposta: \<DIGITE A SUA RESPOSTA\>
 
-6 - O que é JSON?
+6. O que é JSON?
 
 Resposta: \<DIGITE A SUA RESPOSTA\>
 
-7 - Para que serve a query string?
+7. Para que serve a query string?
 
 Resposta: \<DIGITE A SUA RESPOSTA\>
 
-#### Prazo: Segunda-Feira (25/11/2024)
+### Prazo:
+Segunda-Feira (25/11/2024)
 
